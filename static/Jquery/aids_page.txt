@@ -1,0 +1,58 @@
+<html>
+    <head>
+        <link href="css/bootstrap.min.css" rel="stylesheet">
+        <script src="js/bootstrap.bundle.min.js" ></script>
+    </head>
+    <body><center><div class="col-lg-12 border "  style="background-color:darkorchid">
+        <b><u><h1><br>ARTIFICIAL INTELLIGENCE AND DATA SCIENCE:-</h1></u></b><br><br>
+            </center></div><br>
+            <div class="col-lg-12 border text-light " style="background-image: url(backgrnd.jpg);">
+            <h3><center><u>Vision and Mission:-</u></center></h3>
+            <center><p><h4>Vission:</h4>
+                Incorporating the Data Science skills and applying the acquired analytical knowledge in 
+                the heterogeneous domains through Artificial Intelligence.<br><br>
+                <h4>Mission:</h4>
+                M1: Understand Data Science:
+                
+                Amalgamation of Programming Knowledge, Mathematical Skill Set and Knowledge 
+                of Business Domains to face the challenges of the real world requirement.<br>
+                
+                M2: Applying Acquired Knowledge:
+                
+                To inculcate the spirit of applying acquired knowledge, 
+                innovation and creativity among students to work in heterogeneous domains.<br>
+                
+                M3: Capstone Project:
+                
+                Providing forum to carry out a capstone project through collaborations with the industries.<br>
+                
+                M4: Be Socially Beneficial and Other Moral Concerns:
+                
+                Inspiring the educational experience in the field of application development 
+                and ensure the design, principle and ethic to be followed in the society.<br>
+                
+                M5: Continuous Learning for Keen Initiative:
+                
+                Affording continuous learning in the field of current trends in Artificial Intelligence 
+                and Data Science for keen initiative and enterprise-focused.</p></center>
+            <center><p><h4><u>CERTIFICATION COURSES OFFERED:-</u></h4>
+                <li>Web Programming-I</li>
+                <li>Web Programming-II</li>
+                <li>Java</li>
+                <li>Mobile app development</li>
+            </p></center>
+            <center><p><h4><u>JOB OPPORTUNITIES:-</u></h4>
+                Data Scientist<br>
+                Data Insight Analyst<br>
+                Big Data Engineer<br>
+                Business Intelligence Developer<br>
+                Machine Learning Engineer</p></center>
+            </div>
+            
+            <ul class="nav ">
+                <div class="col-lg-4" style="background-color: oldlace;"><center><li class="nav-item"><a class="nav-link" href="task2.html"><h2>HOME PAGE</h2></a></li></div></center>
+                <div class="col-lg-4"style="background-color:pink;"><center><li class="nav-item"><a class="nav-link" href="sylbus.html"><h2>SYLLABUS</h2></a></li></div></center>
+                <div class="col-lg-4"style="background-color: oldlace;"><center><li class="nav-item"><a class="nav-link" href="ex10.html"><h2>APPLY NOW</h2></a></li></div></center>
+            </ul>
+    </body>
+</html>

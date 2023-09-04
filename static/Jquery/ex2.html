@@ -1,0 +1,16 @@
+<html>
+    <head>
+        <script src="jquery.js"></script>
+        <script>
+            $(document).ready(function(){
+                $("#value").click(function(){
+                    document.writeln("name"+$("#uname").val());
+                });
+            });
+        </script>
+    </head>
+    <body>
+        firstname<input type="text" id="uname">
+        <button id="value">Show</button>
+    </body>
+</html>

@@ -1,0 +1,70 @@
+<html>
+    <head>
+        <link href="css/bootstrap.min.css" rel="stylesheet">
+        <script src="js/bootstrap.bundle.min.js" ></script>
+    </head>
+    <body>
+        <div class="row">
+            <div class="col-lg bg-info"  ><center><p>
+            <center><img src="SMVEC.gif" width="100px"></center>
+        <h1><center>SRI MANAKULA VINAYAGAR ENGINEERING COLLEGE</center></h1>
+        <h6>(An Autonomous Institution)</h6>
+        <h5>Madagadipet,Puducherry-605107</h5>
+        <h5>T : 0413-2642000 | 2641151 | 2640040</h5>
+        <h6>E : smvec@smvec.ac.in | www.smvec.ac.in</h6>
+    </p></center></div>
+    <div class="row">
+        <div class="col-lg-2 "style="background-color:red"><h3><u><center>DETAILS:-</h3></u><br>
+        <div class="dropdown">
+            <center><button type="button" class="btn dropdown-toggle" data-bs-toggle="dropdown"><center><h4>About Us</h4></center></button>
+            <ul class="dropdown-menu">
+                <li><a class="dropdown-menu-item" href="#">Vision and mission</a></li>
+                <li><a class="dropdown-menu-item" href="#">Show location</a></li>
+                <li><a class="dropdown-menu-item" href="#">Board of Management</a></li>
+                <li><a class="dropdown-menu-item" href="#">Center of Excellence</a></li>
+                <li><a class="dropdown-menu-item" href="#">UGC Undertaking</a></li>
+                <li><a class="dropdown-menu-item" href="#">Contact Us</a></li>
+            </ul>
+            </div></center><br>
+            <div class="dropdown">
+                <center><button type="button" class="btn dropdown-toggle" data-bs-toggle="dropdown"><center><h4>Schools</h4></center></button>
+                <ul class="dropdown-menu">
+                    <li><a class="dropdown-menu-item" href="#">Engineering</a></li>
+                    <li><a class="dropdown-menu-item" href="#">School of architecture</a></li>
+                    <li><a class="dropdown-menu-item" href="#">School of Arts and Sciences</a></li>
+                    <li><a class="dropdown-menu-item" href="#">College of Physiotherapy</a></li>
+                    <li><a class="dropdown-menu-item" href="#">School of agricultural sciences</a></li>
+                    <li><a class="dropdown-menu-item" href="#">School of Law</a></li>
+                </ul>
+                </div></center>
+                <br><div class="dropdown">
+                    <center><button type="button" class="btn dropdown-toggle" data-bs-toggle="dropdown"><center><h4>Ranking</h4></center></button>
+                    <ul class="dropdown-menu">
+                        <li><a class="dropdown-menu-item" href="#">ATAL Ranking</a></li>
+                        <li><a class="dropdown-menu-item" href="#">ARIIA Ranking</a></li>
+                        <li><a class="dropdown-menu-item" href="#">NIRF Ranking</a></li>
+                        <li><a class="dropdown-menu-item" href="#">DATAQUEST</a></li>
+                        <li><a class="dropdown-menu-item" href="#">Careers360</a></li>
+                    </ul><br>
+                    <br><div class="dropdown"><center>
+                        <button type="button" class="btn dropdown-toggle" data-bs-toggle="dropdown"><h4>Department</h4></button>
+                        <ul class="dropdown-menu">
+                            <li><a class="dropdown-menu-item" href="aids.html"><center>AI&DS</center></a></li>
+                            <li><a class="dropdown-menu-item" href="it.html"><center>IT</center></a></li>
+                            <li><a class="dropdown-menu-item" href="#"><center>CSE</center></a></li>
+                            <li><a class="dropdown-menu-item" href="#"><center>CCE</center></a></li>
+                            <li><a class="dropdown-menu-item" href="#"><center>EEE</center></a></li>
+                            <li><a class="dropdown-menu-item" href="#"><center>ECE</center></a></li>
+                        </ul></center>
+                    </div><br>
+
+        </div><br></center>
+    </p></center></div>
+    <div class="col-lg-9  " >
+    <img src="smvec_stru.jpeg" width="1255px" height="420px" >
+    </div>
+    </div>
+        
+        
+    </body>
+</html>

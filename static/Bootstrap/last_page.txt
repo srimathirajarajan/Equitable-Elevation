@@ -1,0 +1,13 @@
+<html>
+    <head>
+        <link href="css/bootstrap.min.css" rel="stylesheet">
+        <script src="js/bootstrap.bundle.min.js"></script>
+            </head>
+            <body style="background-color: plum;">
+                <center><br><br><br><br><br><br><br><br><h1><b>THANK YOU FOR REGISTERING</b></h1></center><br><br>
+                <ul class="nav ">
+                    <div class="col-lg" ><center><li class="nav-item"><a class="nav-link" href="fpage.html"><h2>HOME PAGE</h2></a></li></div></center>
+                </ul>
+            </body>
+
+    </html>

@@ -1,0 +1,30 @@
+<html>
+    <head>
+        <script src="jquery.js"></script>
+        <script>
+            $(document).ready(function(){
+                $("#hide").click(function(){
+                    $("p").hide();
+                });
+                $("#show").click(function(){
+                    $("p").show();
+                });
+            });
+        </script>
+        <script>
+            $(document).ready(function(){
+                $("#hide").click(function(){
+                    $("p").fadeIn();
+                });
+                $("#show").click(function(){
+                    $("p").fadeOut();
+                });
+            });
+        </script>
+    </head>
+    <body>
+        <p > Click the button and then see</p>
+        <button id="hide">Hide me</button>
+        <button id="show">Show me</button>
+    </body>
+</html>
